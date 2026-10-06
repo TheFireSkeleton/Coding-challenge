@@ -10,7 +10,7 @@ public class Main {
                 return file.getAbsolutePath();
             }
         }
-        return null;
+        return true;
     }
     public static void main(String[] args) throws Exception {
         while (true) {
